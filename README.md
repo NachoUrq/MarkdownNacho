@@ -1,9 +1,9 @@
-#terciario-urquiza-Ignacio-Taborda
+# terciario-urquiza-Ignacio-Taborda
 
 Estoy escribiendo esto para completar la tarea
 
 ## Esto funciona
-###Esta encendidio
+### Esta encendidio
 
 *Nada*
 *Nada*
@@ -11,4 +11,4 @@ Estoy escribiendo esto para completar la tarea
 
 _Oh no_
 
-####Es viernes y mi cuerpo lo sabe
+#### Es viernes y mi cuerpo lo sabe
