@@ -7,7 +7,7 @@ classDiagram
         +boolean isAvailable()
     }
 
-    class niño {
+    class nino {
         +String name
         +String memberId
         +borrowBook(Book book)
@@ -30,7 +30,7 @@ classDiagram
 
 
     adulto --> familia : dicta
-    niño --> vida : pertenece a
+    nino --> vida : pertenece a
     clase --> familia : en
     
 
