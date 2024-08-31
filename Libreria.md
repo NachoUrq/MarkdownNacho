@@ -1,26 +1,26 @@
 ```mermaid
 classDiagram
-    class Adulto {
+    class adulto {
         +String titulo
         +String autores
         +String isbn
         +boolean isAvailable()
     }
 
-    class Niño {
+    class niño {
         +String name
         +String memberId
         +borrowBook(Book book)
         +returnBook(Book book)
     }
- class Familia {
+ class familia {
         +String name
         +String memberId
         +borrowBook(Book book)
         +returnBook(Book book)
     }
 
-    class Vida {
+    class vida {
         +String name
         +String employeeId
         +addBook(Book book)
@@ -29,9 +29,9 @@ classDiagram
 
 
 
-    Adulto --> Familia : dicta
-    Niño --> Vida : pertenece a
-    clase --> Familia : en
+    adulto --> familia : dicta
+    niño --> vida : pertenece a
+    clase --> familia : en
     
 
-    Adulto --> Familia : administra
+    adulto --> familia : administra
